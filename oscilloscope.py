@@ -1,9 +1,8 @@
 import RPi.GPIO as GPIO
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy.signal import savgol_filter
-from scipy.signal import argrelextrema
 from time import sleep
+#from scipy.signal import savgol_filter
 
 import busio
 import digitalio
