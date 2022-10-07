@@ -13,7 +13,7 @@ Smith, S. W. (1999). Statistics, Probability and Noise. In The scientist and eng
 
 # MCP3008 ADC Chip
 
-
+The MCP3008 ADC chip is a 8-channel, 10-bit, SPI-based ADC (analog to digital converter). It measures 8 different analog voltages with 10-bit resolution and sends the result to a microcontroller via SPI communication. 
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details
